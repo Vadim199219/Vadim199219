@@ -1,7 +1,7 @@
 ### Hi there, I`m Vadim 👋
 - 🔭 I’m currently working as Marketing specialist at HOLMROCK computer company, Kaliningrad
 - 🔎 Completed a course of Data Analyst at Yandex.Practicum
-- - 📫 How to reach me: https://t.me/Vadim199219
+- 📫 How to reach me: https://t.me/Vadim199219
 <!--
 **Vadim199219/Vadim199219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
